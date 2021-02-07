@@ -1,6 +1,6 @@
 # Intellicare
 
-Welcome to the repository that contains the content of the [intellicare.ch]()https://www.intellicare.ch website.
+Welcome to the repository that contains the content of the [intellicare.ch](https://www.intellicare.ch) website.
 
 This site is created with [Hugo](https://gohugo.io) as a static site generator and [Visual Studio Code](https://code.visualstudio.com) as editor.
 The resulting website is hosted using [GitHub Pages](https://pages.github.com/).
